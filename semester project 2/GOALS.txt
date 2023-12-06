@@ -1,0 +1,16 @@
+Goals for project
+
+a program than can realatively predict next years temps possibly using ai (tensorflow)
+
+1. choice to randomize or import files
+2. find the warmest/coldest temps from selected year
+3. find the warmest/coldest stretch of 7 days and find the mean temp, temps for those 7 days,
+and the day it started on
+4. plot temperatures using line and scatter plot.
+
+5. use tensorflow/averages to 'predict' next years temps
+6. find the warmest/coldest day predicted
+7. compare plots with given data
+
+extra:
+1. Use tkinter to import files in a dialoge box

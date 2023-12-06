@@ -1,0 +1,25 @@
+Enclosed is a program that will take 5 years of temperature data and try and predict
+the next years temperatures based off of those 5 previous years. 
+
+It does this by taking the average from each index in the list of temperatures and stores
+them in its own list for the predicted year. Originally this was done with a tensorflow
+trained ai, but running this would take too long for a small presentaion. 
+
+Originally tensorflow was working, but due to time and bugs, tensorflow was replaced in favor
+of averages. While not totally accurrate, it reflects the real world due to chaos theory. 
+Chaos theory being that, you cant account for every variable in predicting, once one vairable is
+off in your model, the wrogness of the model grows exponentially. In other words, no one knows
+exactly what they weather will be like in 3 days...
+
+When you open the program you are faced with either randomizing 5 years of temperatures (based
+on highs and lows of Newton ks) or importing your own files. Enclosed are the temperature
+files i used for testing (temp1, temp2, temp3, temp4, temp5). Be sure to click on them in order
+of year when entering them through the box. These test files were also randomly generated using
+another python program.
+
+The rest of the program is self explanatory, such as finding hottest and coldest temps,
+lowest and highest means of temps over a given week, and the plots that are encoded to give
+a visual representation of the climate.
+
+
+Caden Mcarthur

@@ -1,0 +1,12 @@
+Results:
+
+The results from this project are good.
+
+Everything works as intended and every bug i encountered was fixed.
+However, tensorflow was not implemented mostly because of complexity and time constraints. 
+Whether i had some values wrong or my computer is just that slow (which it is not) it took 
+this program 3 hours to spit out 365 predicted temperatures. Decided to scrap it after that night.
+
+Taking averages over tensorflow probably would not change the outcome in such as small program.
+And it probably would not affect the validity of these predicted results. Like i said before
+due to the chaos theory, no one knows exactly how the weather will behave in 3 days time.
